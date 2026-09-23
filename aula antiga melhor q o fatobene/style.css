@@ -1,0 +1,18 @@
+.carlim{
+    flex: auto;
+    color: blueviolet;
+    display: flex;
+    gap: 30px;
+}
+#malukim{
+    background-color: black;
+    color: aquamarine;
+    display: flex;
+    gap: 60px;
+}
+#carmezin{
+    background-color: black;
+    color: red;
+    display: flexbox;
+    gap: 60px;
+}
